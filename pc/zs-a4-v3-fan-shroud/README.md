@@ -9,4 +9,6 @@ This repository contains a couple of fan shroud designs to fit this cooler. Both
 * v1 is a straight 92mm "pipe" design, going directly from the cooler to the case.
 * v2 flares out without getting in the way of being able to secure the shroud. This is done at about 20°, to a diameter of around 104mm at the case side.
 
-There's also a "hollowed" v2 that _in theory_ should save some plastic when printing, though the amount of plastic saved is honestly probably not that much.
+There's also a "hollowed" v2 that _in theory_ should save some plastic when printing, though the amount of plastic saved is honestly probably not that much. This is the version I have installed in my PC, and here's what that looks like! (It's not a great photo, but you get the idea)
+
+![This is how it looks installed in my PC](https://github.com/progmem/3d-printables/raw/main/pc/zs-a4-v3-fan-shroud/example.jpg)
