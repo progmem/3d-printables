@@ -8,7 +8,7 @@ If you've managed to fit a very large hotdog (the ALLS) in a very small hallway 
 
 ## Disclaimer
 
-While these brackets help to secure the ALLS from moving around front-to-back, these brackets do not prevent side-to-side or 
+While these brackets help to secure the ALLS from moving around front-to-back, these brackets **do not prevent side-to-side or vertical movement**. Be aware of this when moving the cabinet, especially via e.g. a truck.
 
 ## Steps
 
